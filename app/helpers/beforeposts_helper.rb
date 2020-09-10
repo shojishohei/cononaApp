@@ -1,0 +1,2 @@
+module BeforepostsHelper
+end

@@ -1,0 +1,1 @@
+# NotificationMailer.send_oubo_notification().deliver_later
